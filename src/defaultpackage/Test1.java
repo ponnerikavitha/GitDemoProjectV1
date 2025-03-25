@@ -10,7 +10,7 @@ public static void main(String[] args) {
 			
 		}
 		else {
-			System.out.println("Do work....");
+			System.out.println("Do work....and changes");
 		}
 	}
 
